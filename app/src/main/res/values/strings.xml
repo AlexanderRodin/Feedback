@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="screen_text">Оцените качество работы</string>
+    <string name="screen_text_logo">DNS</string>
+    <string name="like_dialog_text">Спасибо за Ваш отзыв!</string>
+    <string name="contact_phone_dislike_dialog_screen">Контактный телефон</string>
+    <string name="dialog_title_dislike_dialog_screen">Оставьте отзыв</string>
+    <string name="text_review_dislike_dialog_screen">Текст</string>
+    <string name="statistics_sheet">Статистика отзывов</string>
+</resources>
